@@ -6,145 +6,154 @@
 <!-- TYPING EFFECT -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+reliable%2C+production-ready+web+apps;Designing+REST+APIs+%26+scalable+backends;Node.js+%7C+React+%7C+MongoDB+%7C+Supabase;Turning+requirements+into+shipped+features" alt="Typing SVG" />
 
+<br/>
+
 <!-- SOCIAL BADGES -->
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/mrunal-shende"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/mrunal-shende"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="https://linkedin.com/in/mrunal-shende"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/mrunal-shende"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=mrunal-shende&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 ---
 
+<div align="left">
+
 ## 🧑‍💻 About Me
 
-I am a focused Full-Stack Developer specializing in building robust, production-grade web ecosystems. My day-to-day work centers around designing reliable REST architectures, mapping complex workflows to maintainable software designs, and ensuring seamless deployments.
+I am a Full-Stack Developer focused on building reliable, production-ready web applications. My day-to-day stack is Node.js, React, and MongoDB—I spend most of my time designing REST APIs, working through requirements, and deploying applications on cloud platforms [cite: Full-Stack Development enthusiast with a primary focus on the MERN stack (MongoDB, Express.js, React.js, Node.js)., My day-to-day stack is Node.js, React, and MongoDB — I spend most of my time designing REST APIs, working through requirements with clients, and getting things deployed and running smoothly on cloud platforms like Render and Netlify.].
 
-* 🚀 **Core Focus:** Writing clean, modular backend APIs and matching them with highly responsive, responsive UIs.
-* 🛠️ **Ownership:** Comfortable driving features completely from technical scoping and schema design straight through to deployment.
-* 📈 **Current Engagement:** Building digital solutions, optimizing runtime architectures, and shipping production-ready applications.
+* 🚀 **Core Focus:** Writing clean, modular backend APIs and matching them with modern, responsive layouts.
+* 🛠️ **Ownership:** Comfortable driving features end-to-end—from API design to live deployment.
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### **Junior Software Development Engineer (Intern)**
-**Chetan's Royals Webtech Pvt Ltd** | *Jan 2026 – Present*
-* **Full-Stack Deliveries:** Developing client-facing digital transformation platforms utilizing React.js, Node.js, Express.js, and Supabase.
-* **Production Workflows:** Engineering secure authentication protocols, operational dashboards, and complex transactional booking systems.
-* **Architecture & Deployment:** Scoping clean business logic to scalable databases and orchestrating live infrastructure deployments on Cloud platforms.
+**Chetan's Royals Webtech Pvt Ltd** · *Jan 2026 – Present*
+* **Full-Stack Applications:** Developing and maintaining client-facing applications using React.js, Node.js, Express.js, and Supabase.
+* **Project Delivery:** Shipped digital transformation features across 5+ client systems covering travel, logistics, real estate, and financial sectors.
+* **Workflows:** Engineering secure production authentication protocols, transactional booking steps, and administrative dashboards.
+
+### **AI & ML Intern**
+**Google** · *Jan 2025 – Mar 2025*
+* **Intelligent Features:** Developed and evaluated specialized Machine Learning workflows during an intensive 10-week virtual engineering track.
+* **API Integrations:** Built practical hands-on integrations combining software systems with generative AI models.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Currently Building
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><b>Am Well — Virtual Healthcare Assistant</b></h3>
-      <p>A high-performance digital healthcare platform integrating real-time logistics and intuitive chatbot flows.</p>
-      <ul>
-        <li>Optimized the REST API execution paths to reduce latency overhead by 60%.</li>
-        <li>Architected backend models handling 500+ concurrent users keeping sub-200ms processing times.</li>
-      </ul>
-      <!-- Tech Stack Badges -->
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><b>E-Commerce Microservices Platform</b></h3>
-      <p>A decoupled, microservices-driven backend architecture engineered for massive scaling requirements.</p>
-      <ul>
-        <li>Isolated key commercial services to run independently without blocking bottlenecks.</li>
-        <li>Implemented strategic Redis cache layers to expedite response throughput for heavily read data paths.</li>
-      </ul>
-      <!-- Tech Stack Badges -->
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### **CareerOS — AI Career Management Ecosystem** &nbsp; <a href="https://github.com/mrunal-shende"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+
+An enterprise-grade, full-stack application engineered to centralize and automate comprehensive professional profiles, career positioning, and credential metrics.
+
+* **Full-Stack Execution** — Owning end-to-end feature sets from technical database schemas to responsive dashboards, replacing monolithic workflows with clean modular interfaces.
+* **Architecture** — Engineering secure server infrastructure and optimized data pipelines to handle high-frequency interactions smoothly.
+* **Integrations** — Designing robust REST layers to map and manage client requirement rules directly into scalable software endpoints.
+
+`React.js` · `Node.js` · `Express.js` · `MongoDB` · `RESTful APIs` · `System Design`
 
 ---
 
-## 🧰 Technical Stack
+## 🚀 Projects
 
-<table>
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Concepts</b></td>
-    <td>
-      <code>RESTful API Architecture</code> · <code>JWT Security Profiles</code> · <code>Microservices</code> · <code>Data Structures & Algorithms</code> · <code>System Design</code>
-    </td>
-  </tr>
-</table>
+### 🧠 **EduVibe — Digital Psychological Intervention System** &nbsp; <a href="https://github.com/mrunal-shende"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github" alt="Code"/></a>
+
+Centralized web platform designed for the Smart India Hackathon (SIH) to manage specialized academic and psychological intervention workflows [cite: The user corrected the AI's understanding of her SIH 2025 project title, clarifying it was for a "Digital Psychological Intervention System.", Developed "EduVibe," a smart curriculum activity and attendance app designed for the Smart India Hackathon (SIH) 2025.].
+
+* **Architecture** — Built a secure web ecosystem to handle student activity tracking and process-driven insights safely.
+* **Access Control** — Implemented a role-based modular administration system to isolate sensitive data visibility between access tiers.
+* **Frontend** — Designed a clean interface optimized for multi-role dashboard navigation and user interactions.
+
+`React.js` · `Node.js` · `Express.js` · `MongoDB` · `REST APIs`
+
+<br/>
+
+### 🏥 **Am Well — Virtual Healthcare Assistant** &nbsp; <a href="https://github.com/mrunal-shende"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github" alt="Code"/></a>
+
+A virtual healthcare platform combining real-time ambulance tracking logistics with AI-driven chatbot support layers.
+
+* **Backend Performance** — Optimized the backend REST API layer to reduce systemic overhead and cut response latency paths by 60%.
+* **Scale** — Maintained sub-200ms processing thresholds under a simulated heavy load of 500+ concurrent user connections.
+* **Real-time Layer** — Integrated live tracking updates using web sockets to maintain connection reliability.
+
+`Node.js` · `Express.js` · `MongoDB` · `Socket.IO` · `Geolocation API`
+
+<br/>
+
+### 🛒 **E-Commerce Microservices Platform** &nbsp; <a href="https://github.com/mrunal-shende"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github" alt="Code"/></a>
+
+A decoupled microservices backend engineered for horizontal scaling, token validation, and high transactional availability.
+
+* **Architecture** — Isolated transactional commerce segments into independent modular microservices to ensure fault tolerance.
+* **Caching** — Configured strategic Redis cache layers to offload database query pressure and speed up high-traffic read paths.
+* **DevOps** — Containerized services via Docker and integrated Nginx reverse proxy routing for smooth request distribution.
+
+`Node.js` · `Redis` · `Docker` · `MongoDB` · `Nginx` · `JWT`
+
+<br/>
+
+### 👥 **Student-Hub — Campus Collaboration Platform** &nbsp; <a href="https://github.com/mrunal-shende"><img src="https://github.com/mrunal-shende"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github" alt="Code"/></a>
+
+A scalable, centralized MERN stack campus web portal to unify academic asset sharing and student updates.
+
+* **Control Panel** — Authored a secure, role-based administration dashboard panel to regulate campus resource postings.
+* **Structure** — Structured with clean, isolated code separation to secure internal router logic handles seamlessly.
+
+`React.js` · `Node.js` · `Express.js` · `MongoDB` · `UI Design`
+
+<br/>
+
+### 🧳 **Express Travel Corp — Commercial Tour Portal** &nbsp; <a href="https://github.com/mrunal-shende"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github" alt="Code"/></a>
+
+A professional, commercial travel portal engineered to showcase custom packages and dynamic company sections.
+
+* **UI/UX Components** — Implemented aesthetic Hero layout sliders, interactive tour packages, and leadership profiles.
+* **Frontend Implementation** — Developed strictly using explicit plain JavaScript components for targeted script efficiency.
+
+`HTML5` · `CSS3` · `JavaScript (.js)` · `User Experience`
 
 ---
+
+## 🧰 Skills
+
+| Layer | Stack |
+| :--- | :--- |
+| **Languages** | JavaScript (ES6+), Python |
+| **Frontend** | React, HTML5, CSS3, Vite, UI Components |
+| **Backend** | Node.js, Express.js, RESTful APIs, JWT Authentication |
+| **Databases** | MongoDB, Supabase, Redis, MySQL |
+| **Tools & DevOps** | Git, Docker, Nginx, Postman, Netlify, Render |
+
+---
+
+</div>
 
 ## 📊 GitHub Metrics
 
 <div align="center">
 
-| | |
-| --- | --- |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrunal-shende&theme=tokyonight" width="400px" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrunal-shende&theme=tokyonight" width="400px" /> |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=mrunal-shende&theme=tokyonight" width="400px" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrunal-shende&theme=tokyonight&utcOffset=5.5" width="400px" /> |
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 5px;" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrunal-shende&theme=tokyonight" width="100%" />
+    </td>
+    <td align="center" style="border: none; padding: 5px;" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrunal-shende&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrunal-shende&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=mrunal-shende&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=mrunal-shende&theme=tokyonight" width="60%" />
 
 </div>
 
 ---
+
+<div align="left">
 
 ## 🎓 Education
 
@@ -159,16 +168,20 @@ I am a focused Full-Stack Developer specializing in building robust, production-
 
 * 🥇 **1st Place Winner** — Department-Level Project Showcase for outstanding application development.
 * 🏅 **Python Gold Badge** — Attained on HackerRank reflecting robust proficiency in structural problem-solving.
-* 🎯 **Hackathon Representative** — Qualified inside the Institutional Evaluation Phase for Smart India Hackathon (SIH).
+* 🎯 **Hackathon Qualifier** — Advanced through the institutional selection evaluations for Smart India Hackathon (SIH) 2025.
 
 ---
+
+</div>
 
 <div align="center">
 
 ### 🤝 Let's Connect & Build Something Impactful
 
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://linkedin.com/in/mrunal-shende"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=100&section=footer" width="100%" />
 
