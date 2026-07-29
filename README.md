@@ -1,243 +1,299 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=180&section=header&text=Hi,%20I'm%20Mrunal%20Shende&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Integration&descAlignY=58&descSize=16" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+full-stack+web+applications;Developing+REST+APIs+and+scalable+backends;Working+with+React%2C+Node.js%2C+MongoDB+%26+Supabase;Learning%2C+building%2C+and+shipping+real-world+projects" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:06B6D4&height=220&section=header&text=Mrunal%20Shende&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Backend%20%7C%20AI%20Integration&descAlignY=60&descSize=17" width="100%" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+practical+full-stack+applications;Developing+REST+APIs+and+scalable+backends;React+%7C+Node.js+%7C+MongoDB+%7C+Supabase;Learning+%7C+Building+%7C+Deploying+%7C+Improving" alt="Typing SVG" />
+
+<br/><br/>
+
 <a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>&nbsp;
-
+<img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://linkedin.com/in/mrunal-shende">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&nbsp;
-
+<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://github.com/mrunal-shende">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>&nbsp;
+<img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=mrunal-shende&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile Views" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mrunal-shende&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-Hi, I'm **Mrunal Shende**, a Full-Stack Developer and MCA student interested in building practical and user-focused software solutions.
+I'm **Mrunal Shende**, a Full-Stack Developer and MCA student passionate about building practical, reliable, and user-focused software applications.
 
-I primarily work with the **MERN stack** and enjoy developing applications across the full development cycle—from designing APIs and database structures to building responsive interfaces and deploying applications.
+I primarily work with the **MERN stack** and enjoy working across the complete development lifecycle — from designing database structures and REST APIs to developing responsive interfaces and deploying applications.
 
-I'm particularly interested in **backend development, REST APIs, AI integration, and cloud deployment**, and I enjoy learning new technologies by applying them to real-world projects.
+I'm particularly interested in **backend development, AI integration, system design, and cloud technologies**.
 
-* 🔭 Currently working on full-stack web applications and personal projects
-* 🌱 Exploring AI integration, system design, cloud technologies, and DevOps
-* 💻 Interested in Full-Stack Development and Backend Engineering
-* 🚀 Enjoy turning ideas and requirements into functional applications
-* 🤝 Open to collaborating on interesting software and open-source projects
+```text
+💻 Full-Stack Development
+⚙️ Backend & REST API Development
+🗄️ Database Design & Integration
+🤖 AI & Chatbot Integration
+☁️ Deployment & Cloud Technologies
+🚀 Building Real-World Projects
+```
 
 ---
 
 ## 💼 Experience
 
-### Junior Software Development Engineer Intern
+### 🧑‍💻 Junior Software Development Engineer Intern
 
-**Chetan's Royals Webtech Pvt. Ltd.** · *Jan 2026 – Present*
+**Chetan's Royals Webtech Pvt. Ltd.**
+`Jan 2026 – Present`
 
-* Working on full-stack web applications using **React.js, Node.js, Express.js, and Supabase**.
-* Contributing to client projects across domains including **travel, logistics, real estate, and finance**.
-* Developing frontend interfaces, backend APIs, authentication flows, dashboards, and database integrations.
-* Working with Git and deployment platforms as part of the development workflow.
-
-### AI & ML Virtual Intern
-
-**Google** · *Jan 2025 – Mar 2025*
-
-* Completed a 10-week virtual learning and project-based internship focused on **AI and Machine Learning**.
-* Worked on practical AI/ML concepts and explored the integration of AI capabilities into software applications.
-* Gained hands-on exposure to machine learning workflows and AI-based solutions.
+* Developing and maintaining full-stack applications using **React.js, Node.js, Express.js, and Supabase**.
+* Contributing to client projects across **travel, logistics, real estate, and financial domains**.
+* Building frontend interfaces, backend APIs, authentication flows, dashboards, and database integrations.
+* Working with Git-based development workflows and application deployment.
 
 ---
 
-## 🚀 Featured Projects
+### 🤖 AI & ML Virtual Intern
 
-### 🧠 EduVibe — Digital Psychological Intervention System
+**Google**
+`Jan 2025 – Mar 2025`
 
-A web-based platform developed as part of the **Smart India Hackathon (SIH)** initiative, focused on supporting digital psychological intervention workflows in an academic environment.
-
-**Key Contributions:**
-
-* Developed frontend and backend components for the application.
-* Implemented role-based access and dashboard functionality.
-* Designed REST APIs for communication between the frontend and backend.
-* Worked on organizing application data and user workflows.
-
-**Tech Stack:**
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
+* Completed a 10-week virtual internship focused on **Artificial Intelligence and Machine Learning**.
+* Worked with practical AI/ML concepts and explored AI-based solutions.
+* Gained experience with integrating AI capabilities into software applications.
 
 ---
 
-### 🏥 Am Well — Virtual Healthcare Assistant
+# 🚀 Featured Projects
 
-A virtual healthcare platform designed to combine **AI-powered chatbot assistance** with healthcare and emergency support features.
+<div align="center">
 
-**Key Contributions:**
+### 🏥 Am Well
 
-* Developed backend APIs using Node.js and Express.js.
-* Integrated a chatbot for user interaction and assistance.
-* Implemented real-time communication using Socket.IO.
+**Virtual Healthcare Assistant**
+
+</div>
+
+A virtual healthcare platform combining **AI-powered chatbot assistance** with healthcare and emergency support features.
+
+**Highlights**
+
+* Developed backend APIs using **Node.js and Express.js**.
+* Integrated an AI-powered chatbot for user interaction and assistance.
+* Implemented real-time communication using **Socket.IO**.
 * Worked with geolocation-based functionality for location-related services.
-* Designed MongoDB schemas for application data.
+* Designed and managed application data using **MongoDB**.
 
-**Tech Stack:**
+**Tech Stack**
+
 `Node.js` `Express.js` `MongoDB` `Socket.IO` `AI API` `Geolocation API`
 
 ---
 
+<div align="center">
+
 ### 🛒 E-Commerce Microservices Platform
 
-A backend-focused e-commerce application designed using a **microservices architecture** to separate core business functionalities into independent services.
+**Backend & Microservices Architecture**
 
-**Key Contributions:**
+</div>
 
-* Designed separate services for authentication, users, products, and orders.
-* Implemented JWT-based authentication.
-* Used Redis for caching and improving frequently accessed data.
-* Containerized services using Docker.
-* Configured Nginx as a reverse proxy.
+A backend-focused e-commerce platform designed using a **microservices architecture**, with independent services for core business functionalities.
 
-**Tech Stack:**
+**Highlights**
+
+* Designed independent services for authentication, users, products, and orders.
+* Implemented **JWT-based authentication**.
+* Used **Redis** for caching frequently accessed data.
+* Containerized services using **Docker**.
+* Configured **Nginx** as a reverse proxy.
+
+**Tech Stack**
+
 `Node.js` `Express.js` `MongoDB` `Redis` `Docker` `Nginx` `JWT`
 
 ---
 
-### 👥 Student-Hub — Campus Collaboration Platform
+<div align="center">
 
-A MERN-based platform designed to provide students with a centralized space for sharing academic resources and campus-related information.
+### 👥 Student-Hub
 
-**Key Contributions:**
+**Campus Collaboration Platform**
 
-* Built frontend interfaces using React.js.
-* Developed backend APIs using Node.js and Express.js.
-* Implemented user authentication and role-based access.
+</div>
+
+A MERN-based campus platform designed to provide students with a centralized space for sharing academic resources and campus-related information.
+
+**Highlights**
+
+* Developed responsive frontend interfaces using **React.js**.
+* Built backend APIs using **Node.js and Express.js**.
+* Implemented authentication and role-based access.
 * Created an administration panel for managing platform content.
+* Structured the application into reusable and maintainable components.
 
-**Tech Stack:**
+**Tech Stack**
+
 `React.js` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-### 🧳 Express Travel Corp — Tour & Travel Website
+<div align="center">
 
-A responsive travel website developed to showcase tour packages, company information, and travel services.
+### 🧳 Express Travel Corp
 
-**Key Contributions:**
+**Tour & Travel Website**
 
-* Designed responsive website sections and layouts.
+</div>
+
+A responsive commercial travel website created to showcase tour packages, company information, and travel services.
+
+**Highlights**
+
+* Designed responsive layouts and modern website sections.
 * Created interactive hero sections and tour package displays.
 * Built dynamic UI components using JavaScript.
 * Focused on creating a clean and user-friendly browsing experience.
 
-**Tech Stack:**
+**Tech Stack**
+
 `HTML5` `CSS3` `JavaScript`
 
 ---
 
-## 🛠️ Technical Skills
-
-### Languages
-
-`JavaScript` `Python` `Java`
-
-### Frontend
-
-`React.js` `HTML5` `CSS3` `Vite`
-
-### Backend
-
-`Node.js` `Express.js` `REST APIs` `JWT`
-
-### Databases
-
-`MongoDB` `MySQL` `Supabase` `Redis`
-
-### DevOps & Tools
-
-`Git` `GitHub` `Docker` `Nginx` `Postman` `Render` `Netlify`
-
-### Currently Exploring
-
-`AI Integration` `System Design` `Microservices` `Cloud Technologies` `DevOps`
-
----
-
-## 🎓 Education
-
-| Degree                                                   | Institute                                         |    Timeline    |       Result      |
-| :------------------------------------------------------- | :------------------------------------------------ | :------------: | :---------------: |
-| **Master of Computer Applications (MCA)**                | P. R. Pote Patil College of Engineering, Amravati | 2024 – Present | **9.3 / 10 CGPA** |
-| **Bachelor of Commerce in Computer Applications (BCCA)** | Kamala Nehru College, Nagpur                      |   2021 – 2024  | **7.4 / 10 CGPA** |
-
----
-
-## 🏆 Achievements & Certifications
-
-* 🥇 **1st Place** — Department-Level Project Showcase
-* 🏅 **Python Gold Badge** — HackerRank
-* 🏆 **College Hackathon Winner** — Developed a technology-based solution for a healthcare-focused problem
-* 🎯 **Smart India Hackathon (SIH) 2025** — Participated in the institutional selection process
-* 🤖 **AI & ML Virtual Internship** — Completed a 10-week virtual internship
-* 💻 **Accenture Developer & Technology Job Simulation**
-* 🤖 **GitHub Copilot & AI Applications Certification**
-
----
-
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrunal-shende&theme=tokyonight" width="90%" />
+### Languages
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,python,java" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrunal-shende&theme=tokyonight" width="45%" />
+### Frontend
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=mrunal-shende&theme=tokyonight" width="45%" />
+<img src="https://skillicons.dev/icons?i=react,html,css,vite" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,supabase" />
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,aws" />
 
 </div>
 
 ---
 
-## 📌 What I'm Looking For
+# 📊 GitHub Activity
 
-I'm currently interested in opportunities where I can contribute as a **Full-Stack Developer, MERN Stack Developer, or Backend Developer**, while continuing to grow my skills in software engineering, system design, AI integration, and cloud technologies.
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrunal-shende&theme=tokyonight" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrunal-shende&theme=tokyonight" width="46%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=mrunal-shende&theme=tokyonight" width="46%" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+# 🎓 Education
+
+<div align="center">
+
+| 🎓 Degree                                                | 🏫 Institute                                      |   📅 Timeline  |   ⭐ Result   |
+| :------------------------------------------------------- | :------------------------------------------------ | :------------: | :----------: |
+| **Master of Computer Applications (MCA)**                | P. R. Pote Patil College of Engineering, Amravati | 2024 – Present | **9.3 / 10** |
+| **Bachelor of Commerce in Computer Applications (BCCA)** | Kamala Nehru College, Nagpur                      |   2021 – 2024  | **7.4 / 10** |
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Achievement               | Details                                          |
+| :--------------------------- | :----------------------------------------------- |
+| 🥇 **Project Showcase**      | 1st Place — Department-Level Project Showcase    |
+| 🐍 **HackerRank**            | Python Gold Badge                                |
+| 🏆 **Hackathon**             | College Hackathon Winner                         |
+| 🎯 **Smart India Hackathon** | Participated in SIH 2025 institutional selection |
+| 🤖 **AI & ML**               | Completed 10-week virtual internship             |
+| 💻 **Developer Simulation**  | Accenture Developer & Technology Job Simulation  |
+| 🧠 **AI Certification**      | GitHub Copilot & AI Applications Certification   |
+
+</div>
+
+---
+
+# 📌 Currently Exploring
+
+<div align="center">
+
+`AI Integration`   `System Design`   `Microservices`   `Cloud Computing`   `DevOps`
+
+</div>
+
+---
+
+# 💡 What I Do
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   🎨  Build responsive & user-friendly interfaces            │
+│                                                              │
+│   ⚙️  Develop REST APIs & backend services                   │
+│                                                              │
+│   🗄️  Design databases & integrate application data         │
+│                                                              │
+│   🤖  Explore AI & chatbot integrations                      │
+│                                                              │
+│   🐳  Work with Docker & deployment workflows                │
+│                                                              │
+│   🚀  Turn ideas into functional real-world applications     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🤝 Let's Connect
 
 I'm always open to connecting with developers, recruiters, and people working on interesting technology projects.
 
 <div align="center">
 
 <a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
+<img src="https://img.shields.io/badge/Let's%20Talk-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+ 
 
 <a href="https://linkedin.com/in/mrunal-shende">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-
-<a href="https://github.com/mrunal-shende">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**Thanks for visiting my profile! 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:4F46E5&height=120&section=footer" width="100%" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=100&section=footer" width="100%" />
